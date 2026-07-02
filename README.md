@@ -1,16 +1,52 @@
-## Hi there 👋
+Ola a todos,
 
-<!--
-**gui6j/gui6j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Guilherme Soares,
 
-Here are some ideas to get you started:
+Analista de Infraestrutura com mais de 14 anos de experiência em ambientes corporativos, atuando com administração de servidores Windows e Linux, Active Directory, virtualização, redes, automação e sustentação de ambientes críticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente curso o MBA em Engenharia de Software pela USP e desenvolvo projetos práticos voltados à automação de infraestrutura, CI/CD, Containers, Infraestrutura como Código, análise automatizada de vulnerabilidades e observabilidade, ampliando minha atuação em tecnologias utilizadas em ambientes modernos de infraestrutura e DevOps.
+
+## Tecnologias
+
+Linux
+
+Windows Server
+
+Docker
+
+GitHub Actions
+
+Python
+
+FastAPI
+
+Trivy
+
+Terraform
+
+AWS
+
+Prometheus
+
+Grafana
+
+Git
+
+Bash
+
+## Projetos
+
+DevSecOps Platform
+Projeto desenvolvido como Trabalho de Conclusão do MBA em Engenharia de Software da USP, com foco na automação e padronização da entrega contínua de software utilizando práticas de DevSecOps.
+
+Projeto desenvolvido como Trabalho de Conclusão do MBA em Engenharia de Software da USP.
+
+## Atualmente estudando
+
+Terraform
+
+Kubernetes
+
+Ansible
+
+AWS
