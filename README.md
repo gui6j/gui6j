@@ -1,52 +1,14 @@
-Ola a todos,
-
-Sou Guilherme Soares,
+Ola a todos, sou Guilherme Soares,
 
 Analista de Infraestrutura com mais de 14 anos de experiência em ambientes corporativos, atuando com administração de servidores Windows e Linux, Active Directory, virtualização, redes, automação e sustentação de ambientes críticos.
 
-Atualmente curso o MBA em Engenharia de Software pela USP e desenvolvo projetos práticos voltados à automação de infraestrutura, CI/CD, Containers, Infraestrutura como Código, análise automatizada de vulnerabilidades e observabilidade, ampliando minha atuação em tecnologias utilizadas em ambientes modernos de infraestrutura e DevOps.
+Atualmente cursando MBA em Engenharia de Software pela USP aplicando práticas modernas de automação, CI/CD e observabilidade ao meu dia a dia em infraestrutura — unindo a solidez da experiência em ambientes corporativos com ferramentas atuais de mercado.
 
 ## Tecnologias
-
-Linux
-
-Windows Server
-
-Docker
-
-GitHub Actions
-
-Python
-
-FastAPI
-
-Trivy
-
-Terraform
-
-AWS
-
-Prometheus
-
-Grafana
-
-Git
-
-Bash
+Linux · Windows Server · Active Directory · Virtualização · Docker · GitHub Actions · Python · FastAPI · Trivy · Git · Bash
 
 ## Projetos
-
-DevSecOps Platform
-Projeto desenvolvido como Trabalho de Conclusão do MBA em Engenharia de Software da USP, com foco na automação e padronização da entrega contínua de software utilizando práticas de DevSecOps.
-
-Projeto desenvolvido como Trabalho de Conclusão do MBA em Engenharia de Software da USP.
+**DevSecOps Platform** — Trabalho de Conclusão do MBA em Engenharia de Software da USP, com foco na automação e padronização da entrega contínua de software utilizando práticas de DevSecOps.
 
 ## Atualmente estudando
-
-Terraform
-
-Kubernetes
-
-Ansible
-
-AWS
+Terraform · Kubernetes · Ansible · AWS · Prometheus · Grafana
